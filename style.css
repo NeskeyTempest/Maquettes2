@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+
+.section{
+    background-image: url(bg_header\ \(1\).jpg);
+    background-size: cover;
+    height: 600px;
+    position: relative;
+    }
+.logoheader{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 600px;    }
+.logo{
+   
+    position: absolute;
+    left: 40%;
+    bottom: 40%; 
+}
+
+.Nav{
+    background-color: #FEC88A;
+    height: 80px;
+    
+    
+}
+Main{
+    background-color: #3C3C3C;
+    height: 6000px;
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.div1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.soupe{
+    background-image: url(soupe.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 400px;
+    position: relative;
+
+}
+.salade{
+    background-image: url(salade.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 400px;
+    position: relative;
+}
+.dessert{
+    background-image: url(dessert.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 400px;
+    position: relative;
+}
+.Soupe1{
+    position: absolute;
+    bottom: 42%;
+    left: 10%;
+    width: 325px;
+    border-bottom: #FEC88A;
+    border-top: #FEC88A;
+    border-style: solid none;
+    font-size: 225%;
+    color: #FEC88A;
+    display: flex;
+    justify-content: center;
+
+}
+.Salade1{
+    position: absolute;
+    bottom: 43%;
+    left: 12%;
+    width: 325px;
+    border-bottom: #FEC88A;
+    border-top: #FEC88A;
+    border-style: solid none;
+    font-size: 225%;
+    color: #FEC88A;
+    display: flex;
+    justify-content: center;
+}
+.Dessert1{
+    position: absolute;
+    bottom: 45%;
+    left: 12%;
+    width: 325px;
+    border-bottom: #FEC88A;
+    border-top: #FEC88A;
+    border-style: solid none;
+    font-size: 225%;
+    color: #FEC88A;
+    display: flex;
+    justify-content: center;
+}
+
