@@ -21,6 +21,8 @@
 .Nav{
     background-color: #FEC88A;
     height: 80px;
+    text-align: center;
+    
     
     
 }
@@ -33,7 +35,7 @@ Main{
 }
 .div1{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .soupe{
     background-image: url(soupe.jpg);
@@ -97,4 +99,120 @@ Main{
     display: flex;
     justify-content: center;
 }
+.Titre1{
+    border-bottom: #A03841;
+    border-top: #A03841;
+    border-style: solid none;
+    color: #FEC88A;
+    font-size: 225%;
+    width: 867px;
+    display: flex;
+    justify-content: center;    
+}
+
+.Chicken{
+    height: 800px;
+    width: 867px;
+    background-color: #C2C57E;
+    position: relative;
+}
+.tacos{
+    width: 867px;
+    position: absolute;
+}
+.toque{
+    position: relative;
+    left: 44%;
+    top: 34%;
+    height: 100px;
+    width: 100px;
+}
+.recette{
+    position: relative;
+    color: #A03841;
+    left: 45%;
+    top: 36%;
+    font-size: 20px;
+}
+.chick{
+    position: relative;
+    left: 36%;
+    top: 38%;
+    font-size: 30px;
+}
+.JOHN{
+    position: relative;
+    left: 37%;
+    top: 40%;
+}
+.Lorem{
+    position: relative;
+    left: 10%;
+    top: 42%;
+    text-align: center;
+    width: 650px;
+    font-size: 30px;
+}
+.Button1{
+    position: relative;
+    top: 46%;
+    left: 40%;
+    height: 50px;
+    width: 180px;
+    background-color: #A03841;
+    color: white;
+}
+.Photo3{
+    width: 350px;
+    height: 400px;
+    position: relative;
+}
+.JohnDoe{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+
+}
+.sujet{
+    position: relative;
+    left: 36%;
+    top: 52%;
+}
+.textsujet{
+    position: relative;
+    text-align: center;
+    text-wrap: wrap;
+    left: 2%;
+    top: 54%;
+    font-size: 20px;
+}
+.fb{
+    position: relative;
+    height: 30px;
+    width: 30px;
+    left: 30%;
+    top: 65%;
+}
+.pinterest{
+    position: relative;
+    height: 27px;
+    width: 27px;
+    top: 65%;
+    left: 32%;
+}
+
+.Titre2{
+    border-bottom: #A03841;
+    border-top: #A03841;
+    border-style: solid none;
+    color: #FEC88A;
+    font-size: 225%;
+    width: 400px;
+    display: flex;
+    justify-content: center;    
+}
+
+
+
+
 
